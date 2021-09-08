@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Evil Hamm",
+      "image": "https://www.theseasonedmom.com/wp-content/uploads/2019/02/5-Ingredient-Baked-Ham-with-Apricot-Glaze-12.jpg",
+      "price": "0.01",
+      "id": 9
     }
   ]
 }
